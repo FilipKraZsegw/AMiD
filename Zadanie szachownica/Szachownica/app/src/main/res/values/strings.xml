@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Szachownica</string>
+    <string name="tw">TWORCA</string>
+    <string name="wyjscie">wyjscie\n</string>
+    <string name="Kolorystyka">Kolorystyka\n</string>
+    <string name="tworca">tworca\n</string>
+    <string name="kolor1">Czarno-Biale\n</string>
+    <string name="kolor2">INNY Kolor</string>
+</resources>

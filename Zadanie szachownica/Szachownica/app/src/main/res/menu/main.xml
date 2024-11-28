@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"> 
+<item android:id="@+id/tw" android:title="@string/tworca"/>
+    <item android:id="@+id/wyjscie" android:title="@string/wyjscie"/>
+    <item android:id="@+id/Kolorystyka" android:title="@string/Kolorystyka">
+        <menu>
+            <item android:id="@+id/kolor1" android:title="@string/kolor1"/>
+            <item android:id="@+id/kolor2" android:title="@string/kolor2"/>
+        </menu>
+    </item>
+</menu>
