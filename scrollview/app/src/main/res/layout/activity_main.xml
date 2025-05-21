@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vertical ScrollView example"
+            android:textSize="18sp"
+            android:layout_gravity="center_horizontal"/>
+
+        <Button android:text="BUTTON 1" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 2" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 3" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 4" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 5" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 6" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 7" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 8" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 9" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 10" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 11" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 12" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 13" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 14" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 15" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 16" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 17" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 18" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 19" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+        <Button android:text="BUTTON 20" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#4A0EB3" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:padding="12dp"/>
+
+    </LinearLayout>
+</ScrollView>
